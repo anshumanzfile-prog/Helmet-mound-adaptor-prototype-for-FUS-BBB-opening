@@ -23,9 +23,6 @@ The design replaces the traditional stereotactic frame setup, which was found to
 ## How to Use
 Export STL files for 3D printing
 
-## Repository Link in Report
-This repository is referenced in Section 2.1 of the Final Year Project Report.
-
 ## Future Improvements
 - Testing with live in-vivo setup
 - Adding units for precise control
@@ -37,5 +34,5 @@ This project is for academic use. Feel free to use or modify with proper attribu
 ---
 **Contact**  
 Mall Anshuman  
-[Your email]  
+anshumanzfile@gmail.com
 The University of Hong Kong
